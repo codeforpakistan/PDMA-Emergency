@@ -1,0 +1,655 @@
+# Copyright (C) 2015 Envira Gallery Lite
+# This file is distributed under the same license as the Envira Gallery Lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery Lite 1.3.4.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/envira-gallery-"
+"lite\n"
+"POT-Creation-Date: 2015-09-09 16:52:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: envira-gallery-lite.php:394
+msgid ""
+"Sorry, but your version of WordPress does not meet Envira Gallery's required "
+"version of <strong>3.8</strong> to run properly. The plugin has been "
+"deactivated. <a href=\"%s\">Click here to return to the Dashboard</a>."
+msgstr ""
+
+#: includes/admin/editor.php:75
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/admin/editor.php:130
+msgid "Choose Your Gallery"
+msgstr ""
+
+#: includes/admin/editor.php:139
+msgid "This Post's Gallery"
+msgstr ""
+
+#: includes/admin/editor.php:158
+msgid "Gallery ID #%s"
+msgstr ""
+
+#: includes/admin/editor.php:173 includes/admin/metaboxes.php:507
+#: includes/admin/metaboxes.php:935
+msgid "Helpful Tips"
+msgstr ""
+
+#: includes/admin/editor.php:174
+msgid "Choosing Your Gallery"
+msgstr ""
+
+#: includes/admin/editor.php:175
+msgid ""
+"To choose your gallery, simply click on one of the boxes to the left. The "
+"\"Insert Gallery\" button will be activated once you have selected a gallery."
+msgstr ""
+
+#: includes/admin/editor.php:176
+msgid "Inserting Your Gallery"
+msgstr ""
+
+#: includes/admin/editor.php:177
+msgid ""
+"To insert your gallery into the editor, click on the \"Insert Gallery\" "
+"button below."
+msgstr ""
+
+#: includes/admin/editor.php:189
+msgid "Cancel Gallery Insertion"
+msgstr ""
+
+#: includes/admin/editor.php:192
+msgid "Insert Gallery"
+msgstr ""
+
+#: includes/admin/media.php:63
+msgid ""
+"The web browser on your device cannot be used to upload files. You may be "
+"able to use the <a href=\"%s\">native app for your device</a> instead."
+msgstr ""
+
+#: includes/admin/media.php:105
+msgid "Drop images here"
+msgstr ""
+
+#: includes/admin/media.php:106
+msgctxt "Uploader: Drop images here - or - Select Images"
+msgid "or"
+msgstr ""
+
+#: includes/admin/media.php:108
+msgid "Select Images"
+msgstr ""
+
+#: includes/admin/media.php:118 includes/admin/media.php:120
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/media.php:121
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/media.php:127
+msgid "Maximum upload file size: %d%s."
+msgstr ""
+
+#: includes/admin/media.php:132
+msgid ""
+"Your browser has some limitations uploading large files with the multi-file "
+"uploader. Please use the browser uploader for files over 100MB."
+msgstr ""
+
+#: includes/admin/metaboxes.php:127
+msgid "Click Here to Insert from Other Image Sources"
+msgstr ""
+
+#: includes/admin/metaboxes.php:129
+msgid "You must select a file to import before continuing."
+msgstr ""
+
+#: includes/admin/metaboxes.php:131
+msgid "Inserting..."
+msgstr ""
+
+#: includes/admin/metaboxes.php:137
+msgid "Are you sure you want to remove this image from the gallery?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:140
+msgid "Saving..."
+msgstr ""
+
+#: includes/admin/metaboxes.php:189
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/admin/metaboxes.php:253
+msgid "Envira Gallery Settings"
+msgstr ""
+
+#: includes/admin/metaboxes.php:358 includes/admin/metaboxes.php:469
+msgid "Images"
+msgstr ""
+
+#: includes/admin/metaboxes.php:359
+msgid "Config"
+msgstr ""
+
+#: includes/admin/metaboxes.php:360
+msgid "Lightbox"
+msgstr ""
+
+#: includes/admin/metaboxes.php:365
+msgid "Misc"
+msgstr ""
+
+#: includes/admin/metaboxes.php:382
+msgid ""
+"<em>Want to make your gallery workflow even better?</em> By upgrading to "
+"Envira Pro, you can get access to numerous other features, including: "
+"<strong>a fully featured gallery widget</strong>, <strong>complete gallery "
+"API</strong>, <strong>powerful gallery documentation</strong>, <strong>full "
+"mobile and Retina support</strong>, <strong>dedicated customer support</"
+"strong> and so much more! <a href=\"http://enviragallery.com/lite/?"
+"utm_source=liteplugin&utm_medium=link&utm_campaign=WordPress\" title=\"Click "
+"here to upgrade to Envira Pro!\" target=\"_blank\">Click here to upgrade to "
+"Envira Pro!</a>"
+msgstr ""
+
+#: includes/admin/metaboxes.php:429
+msgid "(click the icon to open and close the overlay dialog)"
+msgstr ""
+
+#: includes/admin/metaboxes.php:430
+msgid "Click here to view meta information about this gallery."
+msgstr ""
+
+#: includes/admin/metaboxes.php:432
+msgid ""
+"You can place this gallery anywhere into your posts, pages, custom post "
+"types or widgets by using the shortcode(s) below:"
+msgstr ""
+
+#: includes/admin/metaboxes.php:437
+msgid ""
+"You can also place this gallery into your template files by using the "
+"template tag(s) below:"
+msgstr ""
+
+#: includes/admin/metaboxes.php:465 includes/admin/metaboxes.php:519
+msgid "Insert Images into Gallery"
+msgstr ""
+
+#: includes/admin/metaboxes.php:479
+msgid "Search"
+msgstr ""
+
+#: includes/admin/metaboxes.php:482
+msgid "Load More Images from Library"
+msgstr ""
+
+#: includes/admin/metaboxes.php:508
+msgid "Selecting Images"
+msgstr ""
+
+#: includes/admin/metaboxes.php:509
+msgid ""
+"You can insert any image from your Media Library into your gallery. If the "
+"image you want to insert is not shown on the screen, you can either click on "
+"the \"Load More Images from Library\" button to load more images or use the "
+"search box to find the images you are looking for."
+msgstr ""
+
+#: includes/admin/metaboxes.php:544
+msgid ""
+"The settings below adjust the basic configuration options for the gallery "
+"lightbox display."
+msgstr ""
+
+#: includes/admin/metaboxes.php:549
+msgid "Number of Gallery Columns"
+msgstr ""
+
+#: includes/admin/metaboxes.php:557
+msgid "Determines the number of columns in the gallery."
+msgstr ""
+
+#: includes/admin/metaboxes.php:562
+msgid "Gallery Theme"
+msgstr ""
+
+#: includes/admin/metaboxes.php:570
+msgid "Sets the theme for the gallery display."
+msgstr ""
+
+#: includes/admin/metaboxes.php:575
+msgid "Column Gutter Width"
+msgstr ""
+
+#: includes/admin/metaboxes.php:579 includes/admin/metaboxes.php:589
+msgid "px"
+msgstr ""
+
+#: includes/admin/metaboxes.php:580
+msgid "Sets the space between the columns (defaults to 10)."
+msgstr ""
+
+#: includes/admin/metaboxes.php:585
+msgid "Margin Below Each Image"
+msgstr ""
+
+#: includes/admin/metaboxes.php:590
+msgid "Sets the space below each item in the gallery."
+msgstr ""
+
+#: includes/admin/metaboxes.php:595
+msgid "Crop Images in Gallery?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:599
+msgid "Enables or disables image cropping for the main gallery images."
+msgstr ""
+
+#: includes/admin/metaboxes.php:604
+msgid "Crop Dimensions"
+msgstr ""
+
+#: includes/admin/metaboxes.php:608
+msgid ""
+"You should adjust these dimensions based on the number of columns in your "
+"gallery."
+msgstr ""
+
+#: includes/admin/metaboxes.php:615
+msgid ""
+"<em>Want to do even more with your gallery display?</em> By upgrading to "
+"Envira Pro, you can get access to numerous other gallery display features, "
+"including: <strong>custom image tagging and filtering</strong>, "
+"<strong>mobile specific image assets for blazing fast load times</strong>, "
+"<strong>dedicated and unique gallery URLs</strong>, <strong>custom gallery "
+"themes</strong>, <strong>gallery thumbnail support</strong> and so much "
+"more! <a href=\"http://enviragallery.com/lite/?"
+"utm_source=liteplugin&utm_medium=link&utm_campaign=WordPress\" title=\"Click "
+"here to upgrade to Envira Pro!\" target=\"_blank\">Click here to upgrade to "
+"Envira Pro!</a>"
+msgstr ""
+
+#: includes/admin/metaboxes.php:633
+msgid "The settings below adjust the lightbox outputs and displays."
+msgstr ""
+
+#: includes/admin/metaboxes.php:638
+msgid "Enable Lightbox?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:642
+msgid "Enables or disables the gallery lightbox."
+msgstr ""
+
+#: includes/admin/metaboxes.php:647
+msgid "Gallery Lightbox Theme"
+msgstr ""
+
+#: includes/admin/metaboxes.php:655
+msgid "Sets the theme for the gallery lightbox display."
+msgstr ""
+
+#: includes/admin/metaboxes.php:660
+msgid "Caption Position"
+msgstr ""
+
+#: includes/admin/metaboxes.php:668
+msgid "Sets the display of the lightbox image's caption."
+msgstr ""
+
+#: includes/admin/metaboxes.php:675
+msgid ""
+"<em>Want even more fine tuned control over your lightbox display?</em> By "
+"upgrading to Envira Pro, you can get access to numerous other lightbox "
+"features, including: <strong>custom lightbox titles</strong>, <strong>enable/"
+"disable lightbox controls (arrow, keyboard and mousehweel navigation)</"
+"strong>, <strong>custom lightbox transition effects</strong>, <strong>native "
+"fullscreen support</strong>, <strong>gallery deeplinking</strong>, "
+"<strong>image protection</strong>, <strong>lightbox supersize effects</"
+"strong>, <strong>lightbox slideshows</strong> and so much more! <a href="
+"\"http://enviragallery.com/lite/?"
+"utm_source=liteplugin&utm_medium=link&utm_campaign=WordPress\" title=\"Click "
+"here to upgrade to Envira Pro!\" target=\"_blank\">Click here to upgrade to "
+"Envira Pro!</a>"
+msgstr ""
+
+#: includes/admin/metaboxes.php:693
+msgid ""
+"The settings below adjust the miscellaneous settings for the gallery "
+"lightbox display."
+msgstr ""
+
+#: includes/admin/metaboxes.php:698
+msgid "Gallery Title"
+msgstr ""
+
+#: includes/admin/metaboxes.php:702
+msgid "Internal gallery title for identification in the admin."
+msgstr ""
+
+#: includes/admin/metaboxes.php:707
+msgid "Gallery Slug"
+msgstr ""
+
+#: includes/admin/metaboxes.php:711
+msgid ""
+"<strong>Unique</strong> internal gallery slug for identification and "
+"advanced gallery queries."
+msgstr ""
+
+#: includes/admin/metaboxes.php:716
+msgid "Custom Gallery Classes"
+msgstr ""
+
+#: includes/admin/metaboxes.php:719
+msgid "Enter custom gallery CSS classes here, one per line."
+msgstr ""
+
+#: includes/admin/metaboxes.php:720
+msgid "Adds custom CSS classes to this gallery. Enter one class per line."
+msgstr ""
+
+#: includes/admin/metaboxes.php:725
+msgid "Enable RTL Support?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:729
+msgid "Enables or disables RTL support in Envira for right-to-left languages."
+msgstr ""
+
+#: includes/admin/metaboxes.php:736
+msgid ""
+"<em>Want to take your galleries further?</em> By upgrading to Envira Pro, "
+"you can get access to numerous other features, including: <strong>a fully-"
+"integrated import/export module for your galleries</strong>, <strong>custom "
+"CSS controls for each gallery</strong> and so much more! <a href=\"http://"
+"enviragallery.com/lite/?"
+"utm_source=liteplugin&utm_medium=link&utm_campaign=WordPress\" title=\"Click "
+"here to upgrade to Envira Pro!\" target=\"_blank\">Click here to upgrade to "
+"Envira Pro!</a>"
+msgstr ""
+
+#: includes/admin/metaboxes.php:862
+msgid "Remove Image from Gallery?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:863
+msgid "Modify Image"
+msgstr ""
+
+#: includes/admin/metaboxes.php:890
+msgid "Edit Metadata"
+msgstr ""
+
+#: includes/admin/metaboxes.php:900
+msgid "Image Title"
+msgstr ""
+
+#: includes/admin/metaboxes.php:911
+msgid "Image titles can take any type of HTML."
+msgstr ""
+
+#: includes/admin/metaboxes.php:915 includes/admin/metaboxes.php:938
+msgid "Image Alt Text"
+msgstr ""
+
+#: includes/admin/metaboxes.php:918
+msgid ""
+"The image alt text is used for SEO. You should probably fill this one out!"
+msgstr ""
+
+#: includes/admin/metaboxes.php:922
+msgid "Image Hyperlink"
+msgstr ""
+
+#: includes/admin/metaboxes.php:925
+msgid ""
+"The image hyperlink determines what opens up in the lightbox once the image "
+"is clicked. If this link is set to a regular web page, it will go to that "
+"page. Defaults to a larger version of the image itself."
+msgstr ""
+
+#: includes/admin/metaboxes.php:936
+msgid "Image Titles"
+msgstr ""
+
+#: includes/admin/metaboxes.php:937
+msgid ""
+"Image titles can take any type of HTML. You can adjust the position of the "
+"titles in the main Lightbox settings."
+msgstr ""
+
+#: includes/admin/metaboxes.php:939
+msgid ""
+"The image alt text field is used for accessibility and SEO, and describes "
+"your image."
+msgstr ""
+
+#: includes/admin/metaboxes.php:940
+msgid "Image Hyperlinks"
+msgstr ""
+
+#: includes/admin/metaboxes.php:941
+msgid ""
+"The image hyperlink field is used when you click on an image in the gallery. "
+"It determines what is displayed in the lightbox view. It could be a larger "
+"version of the image, a video, or some other form of content."
+msgstr ""
+
+#: includes/admin/metaboxes.php:942
+msgid "Saving and Exiting"
+msgstr ""
+
+#: includes/admin/metaboxes.php:943
+msgid ""
+"Click on the button below to save your image metadata. You can close this "
+"window by either clicking on the \"X\" above or hitting the <code>esc</code> "
+"key on your keyboard."
+msgstr ""
+
+#: includes/admin/metaboxes.php:951
+msgid "Save Metadata"
+msgstr ""
+
+#: includes/admin/posttype.php:76
+msgid "Title"
+msgstr ""
+
+#: includes/admin/posttype.php:77
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/posttype.php:78
+msgid "Function"
+msgstr ""
+
+#: includes/admin/posttype.php:79
+msgid "Number of Images"
+msgstr ""
+
+#: includes/admin/posttype.php:80
+msgid "Last Modified"
+msgstr ""
+
+#: includes/admin/posttype.php:81
+msgid "Date"
+msgstr ""
+
+#: includes/admin/posttype.php:158 includes/admin/posttype.php:161
+msgid "Envira gallery updated."
+msgstr ""
+
+#: includes/admin/posttype.php:159
+msgid "Envira gallery custom field updated."
+msgstr ""
+
+#: includes/admin/posttype.php:160
+msgid "Envira gallery custom field deleted."
+msgstr ""
+
+#: includes/admin/posttype.php:162
+msgid "Envira gallery restored to revision from %s."
+msgstr ""
+
+#: includes/admin/posttype.php:163
+msgid "Envira gallery published."
+msgstr ""
+
+#: includes/admin/posttype.php:164
+msgid "Envira gallery saved."
+msgstr ""
+
+#: includes/admin/posttype.php:165
+msgid "Envira gallery submitted."
+msgstr ""
+
+#: includes/admin/posttype.php:166
+msgid "Envira gallery scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/admin/posttype.php:166
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/admin/posttype.php:167
+msgid "Envira gallery draft updated."
+msgstr ""
+
+#: includes/global/common.php:63
+msgid "One Column (1)"
+msgstr ""
+
+#: includes/global/common.php:67
+msgid "Two Columns (2)"
+msgstr ""
+
+#: includes/global/common.php:71
+msgid "Three Columns (3)"
+msgstr ""
+
+#: includes/global/common.php:75
+msgid "Four Columns (4)"
+msgstr ""
+
+#: includes/global/common.php:79
+msgid "Five Columns (5)"
+msgstr ""
+
+#: includes/global/common.php:83
+msgid "Six Columns (6)"
+msgstr ""
+
+#: includes/global/common.php:103 includes/global/common.php:124
+msgid "Base"
+msgstr ""
+
+#: includes/global/common.php:145
+msgid "Float"
+msgstr ""
+
+#: includes/global/common.php:149
+msgid "Float (Wrapped)"
+msgstr ""
+
+#: includes/global/common.php:252
+msgid ""
+"No image editor could be selected. Please verify with your webhost that you "
+"have either the GD or Imagick image library compiled with your PHP install "
+"on your server."
+msgstr ""
+
+#: includes/global/common.php:355
+msgid "No image URL specified for cropping."
+msgstr ""
+
+#: includes/global/common.php:374
+msgid "No file could be found for the image URL specified."
+msgstr ""
+
+#: includes/global/common.php:382 includes/global/common.php:394
+msgid ""
+"The dimensions of the original image could not be retrieved for cropping."
+msgstr ""
+
+#: includes/global/posttype.php:52 includes/global/posttype.php:53
+#: includes/global/posttype.php:63
+msgid "Envira Gallery"
+msgstr ""
+
+#: includes/global/posttype.php:54
+msgid "Add New"
+msgstr ""
+
+#: includes/global/posttype.php:55
+msgid "Add New Envira Gallery"
+msgstr ""
+
+#: includes/global/posttype.php:56
+msgid "Edit Envira Gallery"
+msgstr ""
+
+#: includes/global/posttype.php:57
+msgid "New Envira Gallery"
+msgstr ""
+
+#: includes/global/posttype.php:58
+msgid "View Envira Gallery"
+msgstr ""
+
+#: includes/global/posttype.php:59
+msgid "Search Envira Galleries"
+msgstr ""
+
+#: includes/global/posttype.php:60
+msgid "No Envira galleries found."
+msgstr ""
+
+#: includes/global/posttype.php:61
+msgid "No Envira galleries found in trash."
+msgstr ""
+
+#: includes/global/shortcode.php:303
+msgid "Close"
+msgstr ""
+
+#: includes/global/shortcode.php:304
+msgid "Next"
+msgstr ""
+
+#: includes/global/shortcode.php:305
+msgid "Previous"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Envira Gallery is best responsive WordPress gallery plugin. This is the lite "
+"version."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Thomas Griffin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://thomasgriffinmedia.com"
+msgstr ""

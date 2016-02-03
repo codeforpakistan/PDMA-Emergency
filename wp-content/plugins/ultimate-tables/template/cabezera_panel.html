@@ -1,0 +1,63 @@
+<style>
+h1 {
+
+	background-color: #3498db;
+	color: #fff;
+	border-radius:5px;
+	line-height: 60px;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+legend {
+
+	background-color: #2980b9;
+	color: #ecf0f1;
+	border-radius:3px;
+	line-height: 40px;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+h1 a {
+
+	height: 50px;
+	width: 244px;
+	background: url(<?php echo plugins_url('', __FILE__); ?>/logoextend.png) no-repeat center center;
+	color: transparent !important;
+}
+
+h3 {
+
+	background-color: #7f8c8d;
+	color: #fff;
+	border-radius:5px;
+	line-height: 30px;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.tablespanel {
+
+		background-color: #bdc3c7;
+	border-radius:10px;
+}
+
+.zebra {
+background-color: #fff;
+
+}
+
+</style>
+<H1>ULTIMATE TABLES by <a href="http://www.extendyourweb.com" title="wordpress themes and plugins" alt="wordpress themes and plugins">Extendyourweb.com</a></H1>
+<br />
+
+	<form method="post" action="">
+	  <input name="crear" type="hidden" id="crear" value="1">
+	   <input type="hidden" name="ultimate_table_nonce_create" id="ultimate_table_nonce_create" value="<?php echo wp_create_nonce( 'ultimate_table_create'); ?>">
+   
+     <input type='submit' name='' class='button-primary' value='Create New Table' />
+    </form>
+   
+<div class="wrap">
+<hr>

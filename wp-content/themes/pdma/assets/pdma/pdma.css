@@ -1,0 +1,448 @@
+/*--------------------------------------------------------------
+## FONTS
+--------------------------------------------------------------*/
+
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/roboto-v15-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Roboto'), local('Roboto-Regular'),
+       url('../fonts/roboto-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/roboto-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/roboto-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/roboto-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/roboto-v15-latin-regular.svg#Roboto') format('svg'); /* Legacy iOS */
+}
+
+/*--------------------------------------------------------------
+## GLOBALS
+--------------------------------------------------------------*/
+body {
+  font-size: 16px;
+	font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.list-inline>li:last-child {
+  padding-right: 0;
+}
+
+.no-padding-right {
+  padding-right: 0px;
+}
+
+.no-padding-left {
+  padding-left: 0;
+}
+
+.panel-default {
+  border-radius: 0px;
+}
+
+.list-group-item {
+  border-left: 0;
+  border-right: 0;
+}
+
+.list-group a:first-child {
+  border-top: 0;
+  margin-top: -10px;
+}
+
+.list-group a:last-child {
+  border-bottom: 0;
+  margin-bottom: -10px;
+}
+
+.list-group {
+  margin-bottom: 0;
+}
+
+.panel  h3 {
+  padding-left: 15px;
+}
+
+.panel hr {
+  margin-bottom: 11px;
+}
+
+.caret {
+  margin-left: 7px;
+}
+
+
+.dropdown-menu li {
+      padding: 10px 5px;
+}
+/*--------------------------------------------------------------
+## TOP NAVBAR
+--------------------------------------------------------------*/
+.nav-top {
+	padding-top: 6px;
+	padding-bottom: 6px;
+    /*box-shadow: 0 1px 3px 0 rgba(0,0,0,0.16),0 1px 7px 0 rgba(0,0,0,0.12);*/
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.16),0 1px 3px 0 rgba(0,0,0,0.12);
+}
+
+.nav-top {
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
+.nav-top a {
+	color: #039be5;
+	padding: 2px 4px;
+	display: inline-block;
+}
+
+.nav-top a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.nav-top ul {
+	margin: 0;
+}
+
+/*--------------------------------------------------------------
+## DONATE
+--------------------------------------------------------------*/
+
+.donate {
+  color: white;
+  font-size: 10px;
+  padding: 2px 5px;
+  background: #353434;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.donate a,
+.donate a:hover {
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+## HELPLINE
+--------------------------------------------------------------*/
+
+.helpline {
+  padding-left: 40px;
+}
+
+.helpline .title {
+  padding-right: 17px;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.helpline .numbers {
+  color: #FF2D2D;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+
+/*--------------------------------------------------------------
+## PRIMARY NAVBAR
+--------------------------------------------------------------*/
+
+#logo {
+	margin-top: 9px;
+	height: 70px;
+}
+
+.nav-primary {
+	text-transform: uppercase;
+}
+
+.navbar-default {
+	border-color: transparent; 
+	background-color: transparent;
+	border-bottom: 2px solid #009966;
+}
+
+.brand-text {
+	color: #505050;
+    margin-top: 22px;
+    padding-left: 11px;
+    line-height: 15px;
+    letter-spacing: 3px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+span.focus{
+    font-size: 33px;
+    font-weight: bold;
+    font-family: 'Economica', sans-serif;
+}
+
+.province {
+    font-size: 13px;
+    color: #2F572E;
+    letter-spacing: 0.3px;
+}
+
+.abbr {
+    font-size: 10px;
+    margin-top: 5px;
+  	letter-spacing: 0.9px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.nav-primary li:hover {
+    background-color: #f1f1f1;
+}
+
+#navbar {
+  display: inline;
+}
+
+/*--------------------------------------------------------------
+##  META SLIDER
+--------------------------------------------------------------*/
+
+.metaslider {
+  margin-top: -19px;
+  border-bottom: 2px solid #009966;
+}
+
+/*--------------------------------------------------------------
+## NEWS AND EVENTS
+--------------------------------------------------------------*/
+
+.news-events {
+  margin-top: 7px;
+}
+
+.thumbnail {
+  width: 90px;
+  height: 90px;
+  padding: 3px;
+  margin-bottom: 7px;
+  display: inline-block;
+}
+
+.thumbnail img {
+  max-height: 82px;
+  max-width: 82px;
+}
+.adjust-margin-right {
+  margin-right: -25px;
+}
+
+.date {
+  color: green;
+  margin-top: 4px;
+  font-size: 11px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.navigators span:first-child{
+  padding-right: 10px;
+}
+
+.news h5,
+.event h5 {
+  margin-top: 0px;
+  color: #2f572e;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+
+.news-events .panel-body {
+  padding-bottom: 0;
+}
+
+/*--------------------------------------------------------------
+## UPDATES EMERGENCY REHABILITATION
+--------------------------------------------------------------*/
+
+
+.up-em-re img {
+  width: 100%;
+  margin-bottom: 19px;
+}
+
+
+/*--------------------------------------------------------------
+## E-SERVICES
+--------------------------------------------------------------*/
+
+.e-services img{
+  width: 36px;
+  height: 36px;
+  padding: 1px;
+  margin-bottom: 0;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.e-services span {
+  margin-top: 5px;
+  font-size: 17px;
+  display: inline-block;
+}
+
+.e-services .row {
+  margin-bottom: 13px;
+}
+
+/*--------------------------------------------------------------
+## FOOTER
+--------------------------------------------------------------*/
+
+.footer {
+  color: white;
+      padding-top: 17px;
+  background-color: #353534;
+}
+
+.footer a.list-group-item {
+    padding-left: 0;
+    padding-bottom: 0;
+    color: white !important;
+    border: none !important;
+    background-color: transparent; 
+}
+
+.footer hr {
+    border-top: 1px solid #4C4848;
+}
+
+.footer h3 {
+  color: #FFE599;
+}
+
+.footer .vision {
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #21C360;
+}
+
+.vision span {
+  color: black;
+  padding-right: 43px;
+  display: inline-block;
+}
+
+footer {
+    margin: 0;
+    color: #ccc;
+    padding: 0;
+    font-size: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div.title {
+      margin-top: -10px;
+    margin-bottom: 14px;
+    padding-top: 33px;
+    text-align: center;
+    padding-bottom: 33px;
+    text-transform: uppercase;
+    background: #52854C;
+    color: white;
+        font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.generic_page p {
+      margin-bottom: 27px;
+}
+
+.generic_page .metaslider {
+  margin-top: 10px;
+}
+
+.generic_page ul li {
+      padding: 12px;
+}
+
+/*--------------------------------------------------------------
+## DG's Portfolios
+--------------------------------------------------------------*/
+
+.dgs_portfolio .panel-body{
+  text-align: center;
+}
+
+.dgs_portfolio span.to {
+  margin-right: 13px;
+  margin-left: 13px;
+}
+
+.tenure {
+  margin-right: 13px;
+}
+
+.dgs_portfolio img {
+      border: 1px solid rgba(0,128,0,.3);
+    padding: 3px;
+    border-radius: 5%;
+}
+
+.dgs_portfolio .panel-heading {
+  font-weight: bold;
+}
+
+
+/*--------------------------------------------------------------
+## MEDIA
+--------------------------------------------------------------*/
+
+.media img {
+  width: 100%;
+  height: 180px;
+}
+
+.media  .list-group {
+      padding: 20px 5px;
+}
+
+.media .glyphicon {
+    color: green;
+    margin-left: -14px;
+    margin-right: 6px;
+}
+
+/*--------------------------------------------------------------
+## MEDIA QUERIES
+--------------------------------------------------------------*/
+
+@media screen and (max-width: 991px) {
+	.top-nav-list {
+		display: block;
+		margin-top: -8px;
+		float: none !important;
+	}
+	.nav-top a:first-child {
+		padding-left: 0; 
+	}
+}
+
+@media screen and (max-width: 497px){
+	.helpline .numbers {
+		display: block;
+		padding-left: 0;
+	  margin-top: 4px;
+	 margin-bottom: 0;
+	}
+}
+
+@media screen and (max-width: 634px){
+
+  .flex-control-nav.flex-control-paging {
+    display: none;
+  }
+
+}
