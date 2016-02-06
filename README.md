@@ -22,3 +22,5 @@ Here’s what we have put together in this newly updated version:
 # Screenshots
 
 ![Screenshot of Website's Front End](https://github.com/codeforpakistan/PDMA-Emergency/blob/master/screenshot.png?raw=true)
+
+![Screenshot of Admin Panel](https://github.com/codeforpakistan/PDMA-Emergency/blob/master/admin%20panel's%20screenshot.png?raw=true)
