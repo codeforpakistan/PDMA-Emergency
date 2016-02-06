@@ -7,7 +7,7 @@ An updated version to PDMA-Emergency site which contains dynamic style of the we
 * New content brings people back to the site and helps in the search engines
 * Can work as a system to allow staff or users to collaborate
 
-# Social Impact
+# Impact
 
 The new dynamic version brings together the main vision of the website. An enhanced interface which makes it easier to update all the content existing on the website. The solution combines all the characteristics of an efficient and easy-to-update website. An easy to eyes and a catchy interface also contains the admin panel which makes it effective in so many ways.
 Here’s what we have put together in this newly updated version:
