@@ -1,5 +1,5 @@
 # PDMA-Emergency
-Official Site of Provincial Disaster Management Authority ( KPK )
+Official Site of Provincial Disaster Management Authority ( KPK ).
 An updated version to PDMA-Emergency site which contains dynamic style of the website. New forms, dynamic content & easy-to-update solution which can be updated easily. Here’s how it’s different from the previous version of the website:
 
 * Much more functional website
@@ -19,3 +19,6 @@ Here’s what we have put together in this newly updated version:
 * New features can be developed and integrated easily.
 * Websites with so many pages easily handled.
 
+# Screenshots
+
+![Screenshot of Website's Front End](https://github.com/codeforpakistan/PDMA-Emergency/blob/master/screenshot.png?raw=true)
